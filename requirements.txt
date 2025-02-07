@@ -1,0 +1,5 @@
+langchain==0.1.0  # Core LangChain library
+langchain-openai==0.1.0  # LangChain OpenAI integration
+streamlit==1.24.0  # Streamlit for the web UI
+python-dotenv==1.0.0  # For loading environment variables from .env files
+openai==1.3.0  # OpenAI Python SDK (required by langchain-openai)
